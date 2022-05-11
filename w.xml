@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <Bank>
+<employee>
+<id>103</id>
+<name>Neha</name>
+<salary>2000</salary>
+</employee>
+</Bank> -->
+<Hospital id="AP">
+<patient>
+<name>Ali</name>
+<age>17</age>
+<disease>Fever</disease>
+<date>5/11/2021</date>
+</patient>
+<patient>
+<name>Sara</name>
+<age>61</age>
+<disease>headache</disease>
+<date>6/11/2021</date>
+</patient>
+<patient>
+<name>Raza</name>
+<age>20</age>
+<disease>Chest infection</disease>
+<date>20/1/2021</date>
+</patient>
+
+
+
+
+
+
+</Hospital>
